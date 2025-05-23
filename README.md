@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <!--
-**SiwenLi666/SiwenLi666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SiwenLi666&show_icons=true&theme=tokyonight)
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiwenLi666&layout=compact&theme=tokyonight)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
